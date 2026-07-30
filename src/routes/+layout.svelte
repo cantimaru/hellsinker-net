@@ -36,6 +36,8 @@
 		margin: 0;
 		padding: 0;
 		box-sizing: border-box;
+
+		background-image: url("../lib/assets/bg_ap.jpg");
 	}
 
 	.app-grid {
@@ -62,6 +64,7 @@
 	.app-content {
 		grid-column: 2;
 		padding: 2rem;
+		background-color: white;
 	}
 
 	.app-footer {

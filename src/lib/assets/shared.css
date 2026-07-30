@@ -1,23 +1,14 @@
 @import 'tailwindcss';
 
 html {
-    --bg-1: #fff;
-    --bg-2: #e0e6eb;
-    --bg-3: #c2cdd6;
-    --fg-1: #212121;
-    --fg-2: #4d4d4d;
+
     --link: #1c7ed4;
-    --link-hover: #3492e5;
+    --link-hover: hsl(208, 77%, 55%);
     --link-active: #176bb5
 }
 
 html.dark {
-    --bg-1: #2e2e2e;
-    --bg-2: #4d4d4d;
-    --bg-3: #666;
-    --fg-1: #e6e6e6;
-    --fg-2: #b3b3b3;
-    --fg-3: #999;
+
     --link: #73c1fc;
     --link-hover: #91cefd;
     --link-active: #4baffb

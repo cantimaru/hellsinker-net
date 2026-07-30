@@ -1,1 +1,1 @@
-<h1> info page</h1>
+<h1> ganme story page</h1>

@@ -1,4 +1,5 @@
 <script>
+	import { page } from "$app/state";
 	import "$lib/assets/shared.css";
 	let { children } = $props();
 </script>
@@ -12,12 +13,42 @@
 		<nav class="app-toc">
 			<h2>Navigation thing</h2>
 			<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/info">Info</a></li>
-				<li><a href="/links">Links</a></li>
-				<li><a href="/story">Game Info</a></li>
-				<li><a href="/tonnor">Other Tonnor Works</a></li>
-				<li><a href="/contact">Contact</a></li>
+				<li>
+					<a href="/" aria-current={page.url.pathname === "/"}>Home</a
+					>
+				</li>
+				<li>
+					<a href="/info" aria-current={page.url.pathname === "/info"}
+						>Info</a
+					>
+				</li>
+				<li>
+					<a
+						href="/links"
+						aria-current={page.url.pathname === "/links"}>Links</a
+					>
+				</li>
+				<li>
+					<a
+						href="/story"
+						aria-current={page.url.pathname === "/story"}
+						>Game Info</a
+					>
+				</li>
+				<li>
+					<a
+						href="/tonnor"
+						aria-current={page.url.pathname === "/tonnor"}
+						>Other Tonnor Works</a
+					>
+				</li>
+				<li>
+					<a
+						href="/contact"
+						aria-current={page.url.pathname === "/contact"}
+						>Contact</a
+					>
+				</li>
 			</ul>
 		</nav>
 
@@ -75,4 +106,3 @@
 		padding: 1rem;
 	}
 </style>
-

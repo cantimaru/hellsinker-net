@@ -1,5 +1,5 @@
 <script>
-	import "../lib/assets/shared.css";
+	import "$lib/assets/shared.css";
 	let { children } = $props();
 </script>
 
@@ -37,7 +37,7 @@
 		padding: 0;
 		box-sizing: border-box;
 
-		background-image: url("../lib/assets/bg_ap.jpg");
+		background-image: url("$lib/assets/bg_ap.jpg");
 	}
 
 	.app-grid {

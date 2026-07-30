@@ -3,7 +3,7 @@
 	let { children } = $props();
 </script>
 
-<div class="max-w-[45vw] h-screen m-0 mx-auto">
+<div class="max-w-[848px] h-screen m-0 mx-auto">
 	<div class="app-grid">
 		<header class="app-header">
 			<h1>Penissinker</h1>

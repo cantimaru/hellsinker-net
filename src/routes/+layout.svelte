@@ -3,21 +3,21 @@
 	let { children } = $props();
 </script>
 
-<div class="max-w-[65vw] h-screen m-0 p-4 mx-auto">
+<div class="max-w-[45vw] h-screen m-0 mx-auto">
 	<div class="app-grid">
 		<header class="app-header">
 			<h1>Penissinker</h1>
 		</header>
 
 		<nav class="app-toc">
-			<h2>Navigation</h2>
+			<h2>Navigation thing</h2>
 			<ul>
 				<li><a href="/">Home</a></li>
 				<li><a href="/info">Info</a></li>
 				<li><a href="/links">Links</a></li>
-				<li><a href="/Story">Game Info</a></li>
+				<li><a href="/story">Game Info</a></li>
 				<li><a href="/tonnor">Other Tonnor Works</a></li>
-				<li><a href="/Contact">Contact</a></li>
+				<li><a href="/contact">Contact</a></li>
 			</ul>
 		</nav>
 

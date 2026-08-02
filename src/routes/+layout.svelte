@@ -6,16 +6,19 @@
   import greenSquare from "$lib/assets/top.gif";
   import blueDiamond from "$lib/assets/c_blue.gif";
   import blueArrow from "$lib/assets/p_blue.gif";
+  import bannerTop from "$lib/assets/banner_top.png";
+  import logo from "$lib/assets/hellsinkernet.png";
 </script>
 
 <div class="max-w-212 h-screen m-0 mx-auto">
   <div class="app-grid">
     <header class="app-header">
-      <h1>Penissinker</h1>
+      <div class="header-logo">
+	    <img class="logo" src="{logo}" alt="Hellsinker.net">
+	  </div>
     </header>
 
     <nav class="app-toc">
-      <h2>Navigation thing</h2>
       <ul class="navList">
         <li>
           <a href="/" aria-current={page.url.pathname === "/"}>
@@ -67,6 +70,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+	overflow-wrap: break-word;
 
     background-image: url("$lib/assets/bg_ap.jpg");
   }
@@ -79,10 +83,21 @@
   }
 
   .app-header {
+    background-image: url("$lib/assets/banner_top.png");
     grid-column: 1 / -1;
     background-color: #1a1a1a;
     color: white;
     padding: 1rem;
+  }
+  
+  .header-logo {
+    padding-top: 4em;
+  }
+ 
+  .logo {
+    transform: scale(2);
+    transform-origin: left;
+    image-rendering: pixelated;
   }
 
   .app-toc {

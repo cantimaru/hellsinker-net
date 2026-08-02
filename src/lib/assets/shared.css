@@ -1,7 +1,7 @@
 @import 'tailwindcss';
 
 html {
-
+    font-family: "Verdana";
     --link: #1c7ed4;
     --link-hover: hsl(208, 77%, 55%);
     --link-active: #176bb5
@@ -28,4 +28,31 @@ a:active {
 
 nav a[aria-current=true] {
     border-bottom: 2px solid
+}
+
+h1 {
+	font-size: 28px;
+	color: cornflowerblue;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+hr {
+	border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.6), rgba(0,0,0,0));
+	margin: 8px 0px 8px 0px;
+}
+
+p {
+	margin: 10px 4px;
+}
+
+.centeredimg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }

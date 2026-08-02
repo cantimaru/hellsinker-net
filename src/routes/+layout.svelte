@@ -62,8 +62,7 @@
 				<strong>Hellsinker.</strong>&nbsp;©&nbsp;Ruminant's Whimper
 			</p>
 			<p class="text-right ml-auto">
-				Here's a second textbox i dont know if we want credits here or
-				something
+				canti & fatih, 2026 — Present
 			</p>
 		</footer>
 	</div>

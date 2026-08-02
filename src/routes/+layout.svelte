@@ -79,7 +79,7 @@
 							height="16"
 							alt="■"
 							class="object-contain"
-						/>Other Tonnor Works</a
+						/>Tonnor's Ludography</a
 					>
 				</li>
 				<li>

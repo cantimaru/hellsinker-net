@@ -3,11 +3,35 @@
 	import "$lib/assets/shared.css";
 	let { children } = $props();
 
-	import greenSquare from "$lib/assets/top.gif"; // reserved for home page link
-	import blueDiamond from "$lib/assets/c_blue.gif"; // for pages with no subpages
-	import blueArrow from "$lib/assets/p_blue.gif"; // for pages with subpages
+	import greenSquare from "$lib/assets/navIco/top.gif"; // reserved for home page link
+	import blueDiamond from "$lib/assets/navIco/c_blue.gif"; // for pages with no subpages
+	import blueArrow from "$lib/assets/navIco/p_blue.gif"; // for pages with subpages
+	import hsSeg from "$lib/assets/navIco/hs_seg.gif";
+	import hsGly from "$lib/assets/navIco/hs_glyph.gif";
+	import star from "$lib/assets/navIco/rz_star.gif";
+	import down from "$lib/assets/navIco/rz_down.gif";
+	import flash from "$lib/assets/navIco/hs_flash.gif";
+	import life from "$lib/assets/navIco/hs_life.gif";
+	import star0 from "$lib/assets/navIco/rz_star0.gif";
+	
 	import bannerTop from "$lib/assets/banner_top.png";
 	import logo from "$lib/assets/hellsinkernet.png"; //
+	
+	import "$lib/assets/font/fonts.css"
+	
+	const navItems = [
+        { href: "/", label: "Home", icon: greenSquare },
+        { href: "/info", label: "Info", icon: blueDiamond },
+        { href: "/links", label: "Links", icon: blueArrow },
+        { href: "/story", label: "Game Info", icon: star0 },
+        { href: "/downloads", label: "Downloads", icon: down },
+        { href: "/tonnor", label: "Tonnor Ludography", icon: blueDiamond },
+        { href: "/archive", label: "Archives", icon: hsSeg },
+        { href: "/fanworks", label: "Fanmade Works", icon: flash },
+        { href: "/media", label: "Media", icon: life },
+        { href: "#", label: "About HS.Net", icon: hsGly },
+        { href: "/contact", label: "Contact Us", icon: star, indent: true},
+    ];
 </script>
 
 <div class="max-w-212 h-screen m-0 mx-auto">
@@ -20,82 +44,14 @@
 
 		<nav class="app-toc">
 			<ul class="navList">
-				<li>
-					<a href="/" aria-current={page.url.pathname === "/"}>
-						<img
-							src={greenSquare}
-							width="16"
-							height="16"
-							alt="■"
-							class="object-contain"
-						/>
-						Home
-					</a>
-				</li>
-				<li>
-					<a href="/info" aria-current={page.url.pathname === "/info"}
-						><img
-							src={blueDiamond}
-							width="16"
-							height="16"
-							alt="■"
-							class="object-contain"
-						/>Info</a
-					>
-				</li>
-				<li>
-					<a
-						href="/links"
-						aria-current={page.url.pathname === "/links"}
-						><img
-							src={blueArrow}
-							width="16"
-							height="16"
-							alt="■"
-							class="object-contain"
-						/>Links</a
-					>
-				</li>
-				<li>
-					<a
-						href="/story"
-						aria-current={page.url.pathname === "/story"}
-						><img
-							src={blueArrow}
-							width="16"
-							height="16"
-							alt="■"
-							class="object-contain"
-						/>Game Info</a
-					>
-				</li>
-				<li>
-					<a
-						href="/tonnor"
-						aria-current={page.url.pathname === "/tonnor"}
-						><img
-							src={blueDiamond}
-							width="16"
-							height="16"
-							alt="■"
-							class="object-contain"
-						/>Tonnor's Ludography</a
-					>
-				</li>
-				<li>
-					<a
-						href="/contact"
-						aria-current={page.url.pathname === "/contact"}
-					>
-						<img
-							src={blueDiamond}
-							width="16"
-							height="16"
-							alt="■"
-							class="object-contain"
-						/>Credits, Contact, & Contributions</a
-					>
-				</li>
+				{#each navItems as item}
+                    <li style="padding-left: {(item.indent ?? 0) * 1.25}rem;">
+                        <a href={item.href} aria-current={page.url.pathname === item.href}>
+                            <img src={item.icon} width="16" height="16" alt="■" class="object-contain"/>
+                            {item.label}
+                        </a>
+                    </li>
+                {/each}
 			</ul>
 		</nav>
 
@@ -103,12 +59,14 @@
 			{@render children()}
 		</main>
 
-		<footer class="app-footer flex justify-between">
+		<footer class="app-footer flex justify-between hs-main">
 			<p class="text-left">
-				<strong>Hellsinker.</strong>&nbsp;©&nbsp;Ruminant's Whimper
+				<strong>Hellsinker.</strong><br>
+				© Ruminant's Whimper
 			</p>
 			<p class="text-right ml-auto">
-				canti & fatih, 2026 — Present
+				canti * nautichor<br>
+				2026 _ Present
 			</p>
 		</footer>
 	</div>

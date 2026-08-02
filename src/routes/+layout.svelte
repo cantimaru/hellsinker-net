@@ -59,8 +59,9 @@
       {@render children()}
     </main>
 
-    <footer class="app-footer">
-      <p>© 2026 THE CANTI AND CO FOUNDATION</p>
+    <footer class="app-footer flex justify-between">
+      <p class="text-left"><strong>Hellsinker.</strong>&nbsp;©&nbsp;Ruminant's Whimper</p>
+      <p class="text-right ml-auto">Here's a second textbox i dont know if we want credits here or something</p>
     </footer>
   </div>
 </div>

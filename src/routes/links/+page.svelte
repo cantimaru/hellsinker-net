@@ -7,10 +7,13 @@ Hellsinker wikipedia - https://ja.wikipedia.org/wiki/Hellsinker.
 Tonnor interview - https://shmuplations.com/hellsinker/
 booth page - https://tonnor.booth.pm/items/872038
 merch/zazzle store - https://www.zazzle.com/store/tonnorstore/products
+
 2. Unofficial hellsinker sightings (other wikis, namely the tv tropes page and the korean wiki)
 Shmups wiki - https://shmups.wiki/library/Hellsinker
+Japanese wiki - https://w.atwiki.jp/hellsinker/
 Korean wiki - https://en.namu.wiki/w/HellSinker.
 Tvtropes - https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Hellsinker
+
 3. community made things (steam groups, loeaderboards, etc)
 Steam group - https://steamcommunity.com/groups/Hellsinker
 Scoreboard - http://hellsinker.royalflare.net/

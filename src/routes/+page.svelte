@@ -16,13 +16,14 @@
 </p>
 <p>Please enjoy what we have to offer, and keep your dignity!</p>
 
-<hr />
+
 <figure>
   <img
     class="centeredimg"
     src="img/top_photo.webp"
     alt="{caption}"
   />
-
   <figcaption class="text-gray-500 text-xs text-center">{caption}</figcaption>
 </figure>
+
+<hr />

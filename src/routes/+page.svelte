@@ -1,4 +1,4 @@
-<script>
+<script lang='ts'>
     let caption = 'The 5th edition release of Hellsinker.\'s disc displayed against the back of its case.'
 </script>
 

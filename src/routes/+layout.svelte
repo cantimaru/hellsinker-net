@@ -1,4 +1,4 @@
-<script>
+<script lang='ts'>
 	import { page } from "$app/state";
 	import "$lib/assets/shared.css";
 	let { children } = $props();
@@ -45,7 +45,7 @@
 		<nav class="app-toc">
 			<ul class="navList">
 				{#each navItems as item}
-                    <li style="padding-left: {(item.indent ?? 0) * 1.25}rem;">
+                    <li style="padding-left: {Number(item.indent ?? 0) * 1.25}rem;">
                         <a href={item.href} aria-current={page.url.pathname === item.href}>
                             <img src={item.icon} width="16" height="16" alt="■" class="object-contain"/>
                             {item.label}

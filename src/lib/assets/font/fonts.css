@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Hellsinker Main';
+    src: local('Hellsinker Main Regular'), local('HellsinkerMain'),
+        url('HellsinkerMain.woff2') format('woff2'),
+        url('HellsinkerMain.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hellsinker UI';
+    src: local('hellsinker'), local('hellsinker'),
+        url('hellsinker.woff2') format('woff2'),
+        url('hellsinker.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Unnamed771';
+    src: local('Unnamed771'), local('Unnamed771'),
+        url('Unnamed771.woff2') format('woff2'),
+        url('Unnamed771.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

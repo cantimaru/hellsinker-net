@@ -16,6 +16,8 @@
 </p>
 <p>Please enjoy what we have to offer, and keep your dignity!</p>
 
+<p class="signature hs-morse">— NAUTICHOR</p>
+
 <hr />
 <figure>
   <img

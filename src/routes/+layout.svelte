@@ -17,6 +17,8 @@
 	import bannerTop from "$lib/assets/banner_top.png";
 	import logo from "$lib/assets/hellsinkernet.png"; //
 	
+	import "$lib/assets/font/fonts.css"
+	
 	const navItems = [
         { href: "/", label: "Home", icon: greenSquare },
         { href: "/info", label: "Info", icon: blueDiamond },
@@ -57,12 +59,14 @@
 			{@render children()}
 		</main>
 
-		<footer class="app-footer flex justify-between">
+		<footer class="app-footer flex justify-between hs-main">
 			<p class="text-left">
-				<strong>Hellsinker.</strong>&nbsp;©&nbsp;Ruminant's Whimper
+				<strong>Hellsinker.</strong><br>
+				© Ruminant's Whimper
 			</p>
 			<p class="text-right ml-auto">
-				canti & fatih, 2026 — Present
+				canti * nautichor<br>
+				2026 _ Present
 			</p>
 		</footer>
 	</div>

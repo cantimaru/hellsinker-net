@@ -51,8 +51,25 @@ p {
 	margin: 10px 4px;
 }
 
+.signature {
+	font-size: 1.6em;
+	text-align: right;
+}
+
 .centeredimg {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.hs-main {
+	font-family: 'Hellsinker Main', "Segoe UI", Roboto, Helvetica;
+	font-size: 8px;
+	line-height: 16px;
+}
+.hs-ui {
+	font-family: 'Hellsinker UI', "Segoe UI", Roboto, Tahoma;
+}
+.hs-morse {
+	font-family: 'Unnamed771', Courier New;
 }

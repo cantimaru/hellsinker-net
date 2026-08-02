@@ -1,24 +1,30 @@
-<h1>links page</h1>
-I think I'm gonna split this page into a couple of sections:
-1. Official hellsinker sightings (steam page, some links to wayback machine stuff for those curious)
-Steam page - https://store.steampowered.com/app/1067720/Hellsinker/
-Official hellsinker distribution & news site - https://sanagimaru.nobody.jp/
-Hellsinker wikipedia - https://ja.wikipedia.org/wiki/Hellsinker.
-Tonnor interview - https://shmuplations.com/hellsinker/
-booth page - https://tonnor.booth.pm/items/872038
-merch/zazzle store - https://www.zazzle.com/store/tonnorstore/products
+<h1>Links</h1>
+<hr>
 
-2. Unofficial hellsinker sightings (other wikis, namely the tv tropes page and the korean wiki)
-Shmups wiki - https://shmups.wiki/library/Hellsinker
-Japanese wiki - https://w.atwiki.jp/hellsinker/
-Korean wiki - https://en.namu.wiki/w/HellSinker.
-Tvtropes - https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Hellsinker
-
-3. community made things (steam groups, loeaderboards, etc)
-Steam group - https://steamcommunity.com/groups/Hellsinker
-Scoreboard - http://hellsinker.royalflare.net/
-Art archive - https://drive.google.com/drive/folders/1awJ0YQg3GgbDbOnxa7KgooXAZvegr93M?usp=sharing
-
-4. dead pages
-old infoseek URL - http://wls.hp.infoseek.co.jp/
-old tonnor t-shirt store - http://www.ohyeah.jp/a/3354.html (designs are viewable here https://web.archive.org/web/20110917005241/http://www.ohyeah.jp/a/3354.html)
+<h2>Official Hellsinker Pages</h2>
+<h3>Steam Store Page</h3>
+<iframe src="https://store.steampowered.com/widget/1067720/" frameborder="0" width="646" height="190"></iframe>
+<h3>Hellsinker Distribution & News Home Page</h3>
+<a href="https://sanagimaru.nobody.jp/"><h3 class="tcenter">https://sanagimaru.nobody.jp/</h3></a>
+<a href="https://tonnor.booth.pm/items/872038"><h3>BOOTH Store Page</h3></a>
+<a href="https://www.zazzle.com/store/tonnorstore/products"><h3>Zazzle Store (Merch)</h3></a>
+<br>
+<h2>Points of Interest</h2>
+<a href="https://shmuplations.com/hellsinker/"><h3>Interview with Tonnor</h3></a>
+<a href="https://ja.wikipedia.org/wiki/Hellsinker"><h3>Wikipedia Page (Japanese)</h3></a>
+<a href="https://shmups.wiki/library/Hellsinker"><h3>Shmups Wiki</h3></a>
+<a href="https://w.atwiki.jp/hellsinker/"><h3>@Wiki Page (Japanese)</h3></a>
+<a href="https://en.namu.wiki/w/HellSinker."><h3>Namuwiki Page (Korean)</h3></a>
+<a href="https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Hellsinker"><h3>TV Tropes Entry</h3></a>
+<br>
+<h2>Community Efforts</h2>
+<a href="https://steamcommunity.com/groups/Hellsinker"><h3>Steam Group (Seperate from Hub)</h3></a>
+<a href="http://hellsinker.royalflare.net/"><h3>Scoreboard @ Royalflare</h3></a>
+<a href="https://drive.google.com/drive/folders/1awJ0YQg3GgbDbOnxa7KgooXAZvegr93M?usp=sharing"><h3>Art Archive</h3></a>
+<br>
+<h2>Dead Links and Archives</h2>
+<a href="http://wiki.hellsinker.net/wiki/Main_Page"><h3>Old Hellsinker.net Wiki</h3></a>
+<a href="https://web.archive.org/web/20130623122058/http://wiki.hellsinker.net/wiki/Main_Page"><h3 class="tcenter">Wayback Archive</h3></a>
+<a href="http://wls.hp.infoseek.co.jp/"><h3>Old Infoseek URL</h3></a>
+<a href="http://www.ohyeah.jp/a/3354.html"><h3>Old Tonnor T-Shirt Store</h3></a>
+<a href="https://web.archive.org/web/20110917005241/http://www.ohyeah.jp/a/3354.html"><h3 class="tcenter">Wayback Archive</h3></a>

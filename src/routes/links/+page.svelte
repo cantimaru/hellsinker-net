@@ -3,7 +3,7 @@
 
 <h2>Official Hellsinker Pages</h2>
 <h3>Steam Store Page</h3>
-<iframe src="https://store.steampowered.com/widget/1067720/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/1067720/" title="Hellsinker. on Steam." frameborder="0" width="646" height="190"></iframe>
 <h3>Hellsinker Distribution & News Home Page</h3>
 <a href="https://sanagimaru.nobody.jp/"><h3 class="tcenter">https://sanagimaru.nobody.jp/</h3></a>
 <a href="https://tonnor.booth.pm/items/872038"><h3>BOOTH Store Page</h3></a>

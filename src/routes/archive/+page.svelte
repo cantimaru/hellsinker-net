@@ -1,3 +1,10 @@
+<script lang='ts'>
+    const archiveTable = [
+    {href: '', name: 'Hellsinker', release: 'N/A', author: 'N/A', desc: ''}
+    ]
+</script>
+
+
 <h1>The Garland Archive</h1>
 <p>I have pretty much everything ever stored on my homelab so I'm considering the route of letting people download the files directly from my machine because it would be dope Probably.
 </p>

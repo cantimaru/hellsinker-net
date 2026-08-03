@@ -21,12 +21,12 @@
 	
 	const navItems = [
         { href: "/", label: "Home", icon: greenSquare },
-        { href: "/info", label: "Info", icon: blueDiamond },
+        { href: "/about", label: "About", icon: blueDiamond },
         { href: "/links", label: "Links", icon: blueArrow },
         { href: "/story", label: "Game Info", icon: star0 },
         { href: "/downloads", label: "Downloads", icon: down },
         { href: "/tonnor", label: "Tonnor Ludography", icon: blueDiamond },
-        { href: "/archive", label: "Archives", icon: hsSeg },
+        { href: "/archive", label: "Garland Archive", icon: hsSeg },
         { href: "/fanworks", label: "Fanmade Works", icon: flash },
         { href: "/media", label: "Media", icon: life },
         { href: "#", label: "About HS.Net", icon: hsGly },

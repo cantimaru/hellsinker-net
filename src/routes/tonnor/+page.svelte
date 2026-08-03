@@ -1,4 +1,7 @@
-<div class="text-right"><a href="/archive">Click here to access the archive.</a></div>
+<div class="text-right"><a href="/archive">Hellsinker specific archive.</a></div>
+
+<h2>Tonnor's Works</h2>
+<hr/>
 
 <h2>Dogma — 2002</h2>
 <p> &emsp; A doujin 2d fighter featuring characters from KANON. The game features 1 stage, a handful of characters, and about 3 music tracks that play around.</p>

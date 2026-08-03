@@ -74,6 +74,8 @@
 </script>
 
 <h1>Fanworks Archive</h1>
+<hr/>
+
 <h2>Games</h2>
 <table>
 	<thead>
@@ -96,7 +98,6 @@
 	</tbody>
 </table>
 
-<hr/>
 <!-- <h3></h3>
 
 <h3></h3>
@@ -125,8 +126,6 @@
 		{/each}
 	</tbody>
 </table>
-
-<hr/>
 
 <h2>Music</h2>
 

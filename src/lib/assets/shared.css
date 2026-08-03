@@ -58,6 +58,18 @@ p {
 	margin: 10px 4px;
 }
 
+.paragraph {
+    font-size: 0.7em;
+	text-indent: 6em;
+}
+
+.standout {
+	text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.5em;
+    font-family: serif;
+}
+
 .signature {
 	font-size: 1.6em;
 	text-align: right;

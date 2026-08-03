@@ -1,1 +1,5 @@
-<h1> ganme story page</h1>
+<h1>Hellsinker Prestory</h1>
+<hr>
+<p>The majority of the contents on this page are paraphrased from the <a href="https://hellsinker-instruction.firebaseapp.com/instruction_e/">Hellsinker manual</a> included in the game files.</p>
+<br>
+<p>A very, very long time ago, the world was plunged into turbulent chaos and rendered largely uninhabitable by a threat recorded as nothing but the "Final Enemy". To survive, humanity created the "Mechanism" - a perfect habitat, implied to be an unthinkably massive structure on an island, ushering in a golden era of peace known as the Brief Honeymoon. Over time, the Mechanism began to deteriorate and lose its rhythm, ultimately resulting in "The Collapse" - a disaster likely carried out by falling parts that caused constructive waves on the surface's waters. The Collapse left surviving humans to cluster around the multipurpose factories that once supported the Mechanism in this now-broken world. Over many years, humanity slowly reclaimed the wastelands, banded together into new nations, and began exploring the ancient ruins of old.</p>

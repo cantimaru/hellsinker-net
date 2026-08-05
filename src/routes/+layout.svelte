@@ -28,7 +28,7 @@
 		{ href: "/tonnor", label: "Tonnor Ludography", icon: blueDiamond },
 		{ href: "/archive", label: "Garland Archive", icon: hsSeg },
 		{ href: "/fanworks", label: "Fanmade Works", icon: flash },
-		{ label: "Art  Gallery", icon: life },
+		{ label: "Art Gallery", icon: life },
 		{ href: "/art/official", label: "Official", icon: life, indent: 1 },
 		{ href: "/art/official/other", label: "Other", icon: life, indent: 2 },
 		{ href: "/art/fanart", label: "Fanart", icon: life, indent: 1 },

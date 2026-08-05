@@ -1,1 +1,0 @@
-<h1>media page im not relaly too sure what im gonna use this for actually im lying hahaha LMfao Fuck you</h1>

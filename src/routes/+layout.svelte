@@ -28,12 +28,12 @@
 		{ href: "/tonnor", label: "Tonnor Ludography", icon: blueDiamond },
 		{ href: "/archive", label: "Garland Archive", icon: hsSeg },
 		{ href: "/fanworks", label: "Fanmade Works", icon: flash },
-		{ href: "/art", label: "Art  Gallery", icon: life },
+		{ label: "Art  Gallery", icon: life },
 		{ href: "/art/official", label: "Official", icon: life, indent: 1 },
 		{ href: "/art/official/other", label: "Other", icon: life, indent: 2 },
 		{ href: "/art/fanart", label: "Fanart", icon: life, indent: 1 },
 		{ href: "/art/fanart/other", label: "Other", icon: life, indent: 2 },
-		{ href: "#", label: "About HS.Net", icon: hsGly },
+		{ label: "About HS.Net", icon: hsGly },
 		{ href: "/contact", label: "Contact Us", icon: star, indent: 1 },
 	];
 </script>
@@ -53,19 +53,32 @@
 						style="padding-left: {Number(item.indent ?? 0) *
 							1.25}rem;"
 					>
-						<a
-							href={item.href}
-							aria-current={page.url.pathname === item.href}
-						>
-							<img
-								src={item.icon}
-								width="16"
-								height="16"
-								alt="■"
-								class="object-contain"
-							/>
-							{item.label}
-						</a>
+						{#if item.href}
+							<a
+								href={item.href}
+								aria-current={page.url.pathname === item.href}
+							>
+								<img
+									src={item.icon}
+									width="16"
+									height="16"
+									alt="■"
+									class="object-contain"
+								/>
+								{item.label}
+							</a>
+						{:else}
+						<div>
+								<img
+									src={item.icon}
+									width="16"
+									height="16"
+									alt="■"
+									class="object-contain"
+								/>
+								{item.label} 
+							</div>
+						{/if}
 					</li>
 				{/each}
 			</ul>
@@ -150,6 +163,10 @@
 	}
 
 	.navList a {
+		display: flex;
+	}
+
+	.navList div {
 		display: flex;
 	}
 </style>

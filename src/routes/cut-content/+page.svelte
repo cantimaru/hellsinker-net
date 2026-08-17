@@ -26,7 +26,7 @@
 <!-- TODO: I'd like for the following passages to all have short descriptors that are clickable that then populate a section of the page with their contents, maybe even just a simple table with expands. that'd probably be easier. As always, fapping my boner -->
 <div>
 	<h3>int_w_ex.CTX (Intro with EXECUTOR)</h3>
-    <pre class="text-xs">
+	<pre class="text-xs">
 Oh, sorry.
 I hope you weren't waiting too long.
 &lt;wait&gt;

@@ -3,7 +3,7 @@
 	boner you know the usual im just gonna dump some shit here for me to get
 	back to later lelelele
 </p>
-<pre>
+<pre class="text-sm">
     どうして今になってこんな処に?
     ……どうして
     君達には似合わない場所じゃないか
@@ -26,8 +26,7 @@
 <!-- TODO: I'd like for the following passages to all have short descriptors that are clickable that then populate a section of the page with their contents, maybe even just a simple table with expands. that'd probably be easier. As always, fapping my boner -->
 <div>
 	<h3>int_w_ex.CTX (Intro with EXECUTOR)</h3>
-	<pre>
-<h3>English MTL</h3>
+    <pre class="text-xs">
 Oh, sorry.
 I hope you weren't waiting too long.
 &lt;wait&gt;
@@ -321,7 +320,7 @@ It's not exactly like we're pulling together whatever trash comes our way.
 <div>
 	<h3>arsenal.ctx (weapons briefing of sorts?)</h3>
 
-	<pre>
+	<pre class="text-xs">
 Well, fancy seeing you here.
 &lt;wait&gt;
 It's been a while, hasn't it?

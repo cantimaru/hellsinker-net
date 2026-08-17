@@ -8,7 +8,7 @@
 	let caption428 =
 		'Clip of taking down all parts of a PRAYER.';
 </script>
-
+<!-- TODO: i think im going to implement a text size changer because the small text on this page is. Small -->
 <h1>About Hellsinker</h1>
 <hr>
 <div class="paragraph">

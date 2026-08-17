@@ -16,6 +16,3 @@
 <p>Other tonnor music albums/collections: Long Long Journey, MGPK OST, Soundcloud collection</p>
 <p>Collection of fan-albums/compilations/etc: Without reStraint, Imitation, WORDCROCKERROR, Audience With Prayer, Shaftdiver OST, Puzzsinker OST</p>
 <p>Various doujinshi scans (I have some of my own not listed on the site that I'd like to scan and translate in addition) possibly with an in-browser reader & library? would be fun to figure out</p>
-
-
-<p>Canti note im probably gonna make it a gallery with like icons or something for everything to be downloaded like music has a vinyl record looking cover, games have a game looking cover (like a ps2 case or something), etc etc etc. U get me. U get me.</p>

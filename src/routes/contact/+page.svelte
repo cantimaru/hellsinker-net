@@ -10,7 +10,7 @@
         <p>discord: cantimaru</p>
     </li>
     <li>
-        <h3>fatih</h3>
+        <h3>nautichor</h3>
         <p>BLANK!</p>
     </li>
 </ul>

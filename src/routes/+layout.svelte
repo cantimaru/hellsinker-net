@@ -45,7 +45,7 @@
 	];
 </script>
 
-<div class="max-w-212 h-screen m-0 mx-auto">
+<div class="max-w-4xl h-screen m-0 mx-auto">
 	<div class="app-grid">
 		<header class="app-header">
 			<div class="header-logo">

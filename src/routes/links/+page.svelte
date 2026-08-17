@@ -1,5 +1,8 @@
+<div>
 <h1>Links</h1>
 <hr>
+
+<p>&emsp;Below you'll find a collection of links both dead and alive that are in some way important to the history of hellsinker. This can range from official pages that allow purchase of the game, to various fan made wikis, and even old urls that are no longer active, but held some importance at a point in time.</p>
 
 <h2>Official Hellsinker Pages</h2>
 <h3>Steam Store Page</h3>
@@ -28,3 +31,4 @@
 <a href="http://wls.hp.infoseek.co.jp/"><h3>Old Infoseek URL</h3></a>
 <a href="http://www.ohyeah.jp/a/3354.html"><h3>Old Tonnor T-Shirt Store</h3></a>
 <a href="https://web.archive.org/web/20110917005241/http://www.ohyeah.jp/a/3354.html"><h3 class="tcenter">Wayback Archive</h3></a>
+</div>

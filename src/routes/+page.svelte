@@ -28,7 +28,7 @@
 	</figure>
 
 	<p>
-		&emsp; Here on this site, you'll find an array of information pertaining
+		&emsp;Here on this site, you'll find an array of information pertaining
 		to not only Hellsinker itself, but the surrounding community,
 		development, background, and everything that comes together that makes
 		Hellsinker such an important piece of work to us. This site is built

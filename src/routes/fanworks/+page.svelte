@@ -73,6 +73,8 @@
 	]);
 </script>
 
+<!-- TODO: Archive tables should be expandable with a brief explanation up on top and maybe some describtiopons for each of the gings okay Bye -->
+
 <h1>Fanworks Archive</h1>
 <hr/>
 

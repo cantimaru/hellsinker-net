@@ -23,3 +23,12 @@
 	<img class="centeredimg" src="img/top_photo.webp" alt={caption} />
 	<figcaption class="text-gray-500 text-xs text-center">{caption}</figcaption>
 </figure>
+
+<p>
+	Here on this site, you'll find an array of information pertaining to not only Hellsinker itself, but the surrounding community, development, background, and everything that comes together that makes Hellsinker such an important piece of work to us. This site is built upon a fascination, adoration, and true love for this game, from the ground up.
+</p>
+<p>
+	We hope you enjoy your time spent here, and we look forward to expanding what we have in store for you all.
+</p>
+
+<p class="signature hs-morse">— CA.NTI</p>

@@ -2,7 +2,7 @@
 	import { page } from "$app/state";
 	import "$lib/assets/shared.css";
 	let { children } = $props();
-
+// static icons
 	import greenSquare from "$lib/assets/navIco/top.gif";
 	import blueDiamond from "$lib/assets/navIco/c_blue.gif";
 	import blueArrow from "$lib/assets/navIco/p_blue.gif";
@@ -13,6 +13,10 @@
 	import flash from "$lib/assets/navIco/hs_flash.gif";
 	import life from "$lib/assets/navIco/hs_life.gif";
 	import star0 from "$lib/assets/navIco/rz_star0.gif";
+// animated icons
+	import youngStel from "$lib/assets/navIco/YOUNG_STELLA.gif";
+	import oldStel from "$lib/assets/navIco/OLD_STELLA.gif"
+
 
 	import bannerTop from "$lib/assets/banner_top.png";
 	import logo from "$lib/assets/hellsinkernet.png"; //
@@ -34,7 +38,10 @@
 		{ href: "/art/fanart", label: "Fanart", icon: life, indent: 1 },
 		{ href: "/art/fanart/other", label: "Other", icon: life, indent: 2 },
 		{ label: "About HS.Net", icon: hsGly },
-		{ href: "/contact", label: "Contact Us", icon: star, indent: 1 },
+		{ href: "/contact", label: "Contact Us", icon: youngStel, indent: 1 },
+		{ href: "/credits", label: "Credits", icon: oldStel, indent: 1},
+		{ href: "/cut-content", label: "Cut Content"},
+
 	];
 </script>
 

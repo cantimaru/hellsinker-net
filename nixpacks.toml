@@ -1,12 +1,13 @@
-[providers]
-providers = ["...", "static"]
+providers = ["node"]
 
 [phases.setup]
-nixpkgsArchive = "51ad838b03a05b1de6f9f2a0fffecee64a9788ee"
-pkgs = ["nodejs_22"]
+nixPkgs = ["nodejs_22"]
+
+[phases.install]
+cmds = ["npm install"]
 
 [phases.build]
-cmds = ["npm ci", "npm run build"]
+cmds = ["npm run build"]
 
-[static]
-directory = "build"
+[start]
+cmd = ""

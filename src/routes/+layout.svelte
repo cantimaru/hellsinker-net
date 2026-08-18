@@ -1,4 +1,5 @@
 <script lang="ts">
+	export const prerender = true;
 	import { page } from "$app/state";
 	import "$lib/assets/shared.css";
 	let { children } = $props();

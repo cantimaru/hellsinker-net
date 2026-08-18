@@ -1,6 +1,5 @@
 <p>
-	this is a collection of shit that was cut from the game uhhhhhh fapping my
-	boner you know the usual im just gonna dump some shit here for me to get
+	this is a collection of shit that was cut from the game uhhhhhh  you know the usual im just gonna dump some shit here for me to get
 	back to later lelelele
 </p>
 <pre class="text-sm">

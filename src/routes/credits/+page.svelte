@@ -13,6 +13,6 @@
 <h2>How to Contribute</h2>
 <p>
 	Fluxer instance here https://fluxer.gg/E9yOeg8z Github page here
-	https://github.com/cantimaru/hellsinker-net reach out give me a handjob
+	https://github.com/cantimaru/hellsinker-net reach out give me a Reach Out and Nothing Crass
 	whatever yada yada yada always looking for contributions yada yada yada
 </p>

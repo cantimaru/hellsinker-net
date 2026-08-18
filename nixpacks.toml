@@ -1,2 +1,2 @@
 [variables]
-NODE_VERSION = "22.23.2"
+NIXPACKS_NODE_VERSION = "22.23.2"

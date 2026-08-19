@@ -1,7 +1,4 @@
 <script lang="ts">
-	export const prerender = true;
-	export const trailingSlash = 'always';
-
 	import { page } from "$app/state";
 	import "$lib/assets/shared.css";
 	let { children } = $props();

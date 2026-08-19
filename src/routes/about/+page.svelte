@@ -19,7 +19,7 @@
 	</p>
 
 	<figure>
-		<img class="centeredimg" src="img/hs_trio.webp" alt={caption0} />
+		<img class="centeredimg" src="/img/hs_trio.webp" alt={caption0} />
 		<figcaption class="text-gray-500 text-xs text-center">
 			{caption0}
 		</figcaption>
@@ -45,7 +45,7 @@
 
 	<figure>
 		<video autoplay muted loop playsinline class="centeredimg">
-			<source src="anim/hs_noob.webm" type="video/webm" />
+			<source src="/anim/hs_noob.webm" type="video/webm" />
 		</video>
 		<figcaption class="text-gray-500 text-xs text-center">
 			{captionclip}
@@ -66,7 +66,7 @@
 
 	<figure>
 		<video autoplay muted loop playsinline class="centeredimg">
-			<source src="anim/hs_movesets.webm" type="video/webm" />
+			<source src="/anim/hs_movesets.webm" type="video/webm" />
 		</video>
 		<figcaption class="text-gray-500 text-xs text-center">
 			{captionmv}
@@ -86,7 +86,7 @@
 
 	<figure>
 		<video autoplay muted loop playsinline class="centeredimg">
-			<source src="anim/hs_u428.webm" type="video/webm" />
+			<source src="/anim/hs_u428.webm" type="video/webm" />
 		</video>
 		<figcaption class="text-gray-500 text-xs text-center">
 			{caption428}

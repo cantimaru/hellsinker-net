@@ -21,7 +21,7 @@
 	<p class="signature hs-morse">— NAUTICHOR</p>
 
 	<figure>
-		<img class="centeredimg" src="img/top_photo.webp" alt={caption} />
+		<img class="centeredimg" src="/img/top_photo.webp" alt={caption} />
 		<figcaption class="text-gray-500 text-xs text-center">
 			{caption}
 		</figcaption>

@@ -23,10 +23,7 @@
 	<a href="https://sanagimaru.nobody.jp/"
 		><h3 class="tcenter">https://sanagimaru.nobody.jp/</h3></a
 	>
-	<a href="https://tonnor.booth.pm/items/872038"><h3>BOOTH Store Page</h3></a>
-	<a href="https://www.zazzle.com/store/tonnorstore/products"
-		><h3>Zazzle Store (Merch)</h3></a
-	>
+
 	<br />
 	<h2>Points of Interest</h2>
 	<a href="https://shmuplations.com/hellsinker/"
@@ -65,11 +62,22 @@
 		><h3 class="tcenter">Wayback Archive</h3></a
 	>
 	<a href="http://wls.hp.infoseek.co.jp/"><h3>Old Infoseek URL</h3></a>
+
+	<h2>Tonnor's Various Storefronts</h2>
+
+	<h3>Hellsinker Physical Releases</h3>
+	<p>&emsp; Hellsinker. has been sold across many various storefronts during the production of its physical copies. Of these stores, only a handful remain viewable online. These storefronts are as follows: Tonnor's <a href="https://tonnor.booth.pm/items/872038">BOOTH Store Page</a>, and <a href="http://www.7-iro.org/store/list_stg_vertical.htm#HellSinker.">7-iro store</a>. These both stock the 6th edition, with the 7-iro store being the only one which (seemingly) currently has it in stock. Previous iterations of the game's release saw sale in the form of physical releases at Comiket 72. More information about that can be found <a href="/archive">here.</a>.</p>
+
+	
 	<a href="http://www.ohyeah.jp/a/3354.html"
 		><h3>Old Tonnor T-Shirt Store</h3></a
 	>
 	<a
 		href="https://web.archive.org/web/20110917005241/http://www.ohyeah.jp/a/3354.html"
 		><h3 class="tcenter">Wayback Archive</h3></a
+	>
+	
+	<a href="https://www.zazzle.com/store/tonnorstore/products"
+		><h3>Zazzle Store (Merch)</h3></a
 	>
 </div>

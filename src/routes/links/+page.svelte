@@ -3,7 +3,7 @@
 	<hr />
 
 	<p>
-		&emsp;Below you'll find a collection of links both dead and alive that
+		Below you'll find a collection of links both dead and alive that
 		are in some way important to the history of hellsinker. This can range
 		from official pages that allow purchase of the game, to various fan made
 		wikis, and even old urls that are no longer active, but held some

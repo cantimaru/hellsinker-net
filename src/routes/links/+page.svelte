@@ -19,10 +19,12 @@
 		width="450"
 		height="190"
 	></iframe>
-	<h3>Hellsinker Distribution & News Home Page</h3>
-	<a href="https://sanagimaru.nobody.jp/"
-		><h3 class="tcenter">https://sanagimaru.nobody.jp/</h3></a
-	>
+	<center>
+		<h3>Hellsinker Distribution & News Home Page</h3>
+		<a href="https://sanagimaru.nobody.jp/">
+			<h3>https://sanagimaru.nobody.jp/</h3>
+		</a>
+	</center>
 	<a href="https://tonnor.booth.pm/items/872038"><h3>BOOTH Store Page</h3></a>
 	<a href="https://www.zazzle.com/store/tonnorstore/products"
 		><h3>Zazzle Store (Merch)</h3></a
@@ -57,19 +59,13 @@
 	>
 	<br />
 	<h2>Dead Links and Archives</h2>
-	<a href="http://wiki.hellsinker.net/wiki/Main_Page"
-		><h3>Old Hellsinker.net Wiki</h3></a
-	>
-	<a
-		href="https://web.archive.org/web/20130623122058/http://wiki.hellsinker.net/wiki/Main_Page"
-		><h3 class="tcenter">Wayback Archive</h3></a
-	>
+	<h3>
+		<a href="http://wiki.hellsinker.net/wiki/Main_Page">Old Hellsinker.net Wiki</a> ·
+		<a href="https://web.archive.org/web/20130623122058/http://wiki.hellsinker.net/wiki/Main_Page">(Wayback Archive)</a>
+	</h3>
 	<a href="http://wls.hp.infoseek.co.jp/"><h3>Old Infoseek URL</h3></a>
-	<a href="http://www.ohyeah.jp/a/3354.html"
-		><h3>Old Tonnor T-Shirt Store</h3></a
-	>
-	<a
-		href="https://web.archive.org/web/20110917005241/http://www.ohyeah.jp/a/3354.html"
-		><h3 class="tcenter">Wayback Archive</h3></a
-	>
+	<h3>
+		<a href="http://www.ohyeah.jp/a/3354.html">Old Tonnor T-Shirt Store</a> ·
+		<a href="https://web.archive.org/web/20110917005241/http://www.ohyeah.jp/a/3354.html">(Wayback Archive)</a>
+	</h3>
 </div>

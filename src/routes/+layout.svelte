@@ -24,22 +24,23 @@
 
 	const navItems = [
 		{ href: "/", label: "Home", icon: greenSquare },
-		{ href: "/about", label: "About", icon: blueDiamond },
-		{ href: "/links", label: "Links", icon: blueArrow },
-		{ href: "/story", label: "Game Info", icon: star0 },
+		{ label: "Hellsinker", icon: life },
+		{ href: "/intro", label: "Introduction", icon: blueDiamond, indent: 1 },
+		{ href: "/story", label: "Story", icon: star0, indent: 1 },
+		{ href: "/music", label: "Music", icon: blueArrow, indent: 1 },
+		{ href: "/cut-content", label: "Cut Content", icon: life, indent: 1 },
 		{ href: "/downloads", label: "Downloads", icon: down },
-		{ href: "/archive", label: "Garland Archive", icon: hsSeg },
-		{ href: "/tonnor", label: "Tonnor Ludography", icon: blueDiamond },
+		{ href: "/links", label: "Links", icon: blueArrow },
 		{ href: "/fanworks", label: "Fanmade Works", icon: flash },
+		{ href: "/archive", label: "Garland Archive", icon: hsSeg },
 		{ label: "Art Gallery", icon: life },
 		{ href: "/art/official", label: "Official", icon: life, indent: 1 },
 		{ href: "/art/official/other", label: "Other", icon: life, indent: 2 },
 		{ href: "/art/fanart", label: "Fanart", icon: life, indent: 1 },
 		{ href: "/art/fanart/other", label: "Other", icon: life, indent: 2 },
-		{ label: "About HS.Net", icon: hsGly },
-		{ href: "/contact", label: "Contact Us", icon: youngStel, indent: 1 },
-		{ href: "/credits", label: "Credits", icon: oldStel, indent: 1 },
-		{ href: "/cut-content", label: "Cut Content" },
+		{ href: "/tonnor", label: "Tonnor Ludography", icon: blueDiamond },
+		{ href: "/site", label: "About HS.Net", icon: hsGly },
+		{ href: "/site/thanks", label: "Thanks", icon: oldStel, indent: 1 },
 	];
 </script>
 

@@ -2,11 +2,54 @@
     import Icon from '$lib/icon.svelte';
 </script>
 
-<h1>Credits, Contact, & Contributions</h1>
+<h1>About Hellsinker.net</h1>
+
+<p>Since the original Hellsinker.net domain was freed up, canti had planned to use it to become a solid fan-site. This domain was reclaimed at the end of July of 2026 and only served as a work-in-progress later in August.</p>
+
+<br>
+<hr />
+
+<h1>Site Managers</h1>
+
+<h2>canti / {`<<Webmaster>>`}</h2>
+<h4 class="font-thin">
+	Main: <br>
+	Favourite Segment: <br>
+	Favourite Track:
+</h4> 
+<p>The owner of Hellsinker.net... currently.</p>
+
+<br>
+
+<h2>Nautichor / {`<<Assistant>>`}</h2>
+<h4 class="font-thin">
+	Main: DEAD LIAR <br>
+	Favourite Segment: 6 <br>
+	Favourite Track: TR_40 (THE WAY OF ALL FLESH) / TR_38 (MEMENTO)
+</h4>
+<p class="paragraph">I discovered Hellsinker around the turn of 2026 after having watched a dear person try it out.
+They were put off by the tutorial, but it drew me in more than anything. I actually had the
+game gifted to me shortly after by another, and after that, I was spending lots of time with
+this strange little game. It was during Segment 6 that turned my intrigue of Hellsinker into love.
+I'd say that in total, it took me about four weeks to clear the game, on and off. I honestly hadn't
+felt so into a piece of work in a long time and was a little sad to see how little there was to
+talk about Hellsinker online. After snooping around, though, it was very difficult to miss canti,
+of whom I was a little wary of first when he seemed to be the World's Biggest 'Sinker fan.
+However, after we connected and conversed here and there, one thing led to another and he invited
+me to work on Hellsinker.net. Cheers to him for even letting this site exist and for being a
+dedicated library of information that I myself wouldn't have known about! Once again, I hope that
+our efforts can be of use to anyone else wanting to dive more into this game without being all
+alone. This is very much a game that I wish I could forget and relive...</p>
+
+<p></p>
 
 <hr />
 
-<h2 class="text-center">Site Admins</h2>
+
+<h1>Contact Us</h1>
+
+
+<h2 class="text-center underline">Site Admins</h2>
 
 <br>
 

@@ -260,7 +260,7 @@
 
 	<div class="grid">
 		{#each tracks as track}
-			{@const bgUrl = `url('/static/img/${track.track}.png')`}
+			{@const bgUrl = `url('/img/music/${track.track}.png')`}
 			<article
 				class="track-panel"
 				style="--bg-image: {bgUrl}"
@@ -285,7 +285,7 @@
 	
 	<div class="grid">
 		{#each unusedtracks as track}
-			{@const bgUrl = `url('/static/img/${track.track}.png')`}
+			{@const bgUrl = `url('/img/music/${track.track}.png')`}
 			<article
 				class="track-panel"
 				style="--bg-image: {bgUrl}"

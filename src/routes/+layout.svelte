@@ -62,7 +62,9 @@
 						{#if item.href}
 							<a
 								href={item.href}
-								aria-current={page.url.pathname === item.href}
+								aria-current={item.href === "/music"
+									? page.url.pathname.startsWith("/music")
+									: page.url.pathname === item.href}
 							>
 								<img
 									src={item.icon}

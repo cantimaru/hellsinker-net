@@ -11,7 +11,7 @@
 			<li>
 				<a
 					href={item.href}
-					aria-current={page.url.pathname === item.href ? "page" : undefined}
+					aria-current={page.url.pathname === item.href}
 				>
 					{item.label}
 				</a>

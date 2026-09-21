@@ -13,7 +13,7 @@
 <h2>Radio Zonde / らじおぞんで — 2003</h2>
 <p>
 	Predating Hellsinker. by just a couple of years, Radio Zonde serves as
-	a ruthless and challenging STG which serves as the birthplace for many
+	a ruthless and challenging STG which stands as the birthplace for many
 	motifs and designs featured in Hellsinker.
 </p>
 <h2>Hellsinker. 0.95 — 2004</h2>

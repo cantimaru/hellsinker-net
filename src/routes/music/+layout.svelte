@@ -1,7 +1,7 @@
 <script>
 	import { page } from "$app/state";
 	import "$lib/assets/shared.css";
-    import HorizontalNavbar from "$lib/horizontalNavbar.svelte";
+    import HorizontalNavbar from "$lib/navbarH.svelte";
 	let { children } = $props();
     
     const navItems = [

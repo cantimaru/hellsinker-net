@@ -127,6 +127,22 @@
 				</div>
 				<span class="font-medium text-sm">cantimaru</span>
 			</li>
+			<li>
+				<a
+					href="https://twitter.com/cantimaru"
+					class="flex items-center gap-3 group"
+				>
+					<div class="relative flex items-center justify-center">
+						<Icon messenger="twitter" />
+						<span
+							class="pointer-events-none absolute -top-8 left-1/2 -translate-x-1/2 whitespace-nowrap rounded bg-gray-800 px-2 py-1 text-xs text-white opacity-0 group-hover:opacity-100 transition-opacity z-10"
+						>
+							Twitter
+						</span>
+					</div>
+					<span class="font-medium text-sm">ca.nti ☆</span>
+				</a>
+			</li>
 		</ul>
 	</div>
 

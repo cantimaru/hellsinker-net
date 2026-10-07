@@ -55,40 +55,42 @@
 		<nav class="app-toc">
 			<ul class="navList">
 				{#each navItems as item}
-					<li
-						style="padding-left: {Number(item.indent ?? 0) *
-							1.25}rem;"
-					>
-						{#if item.href}
-							<a
-								href={item.href}
-								aria-current={item.href === "/music"
-									? page.url.pathname.startsWith("/music")
-									: page.url.pathname === item.href}
-							>
-								<img
-									src={item.icon}
-									width="16"
-									height="16"
-									alt="■"
-									class="object-contain"
-								/>
-								{item.label}
-							</a>
-						{:else}
-							<div>
-								<img
-									src={item.icon}
-									width="16"
-									height="16"
-									alt="■"
-									class="object-contain"
-								/>
-								{item.label}
-							</div>
-						{/if}
-					</li>
-				{/each}
+	<li style="padding-left: {Number(item.indent ?? 0) * 1.25}rem;">
+		{#if item.href}
+			<a
+				href={item.href}
+				aria-current={
+					item.href === "/music"
+						? page.url.pathname.startsWith("/music")
+						: item.href === "/fanworks"
+						? page.url.pathname.startsWith("/fanworks")
+						: page.url.pathname === item.href
+				}
+			>
+				<img
+					src={item.icon}
+					width="16"
+					height="16"
+					alt="■"
+					class="object-contain"
+				/>
+				{item.label}
+			</a>
+		{:else}
+			<div>
+				<img
+					src={item.icon}
+					width="16"
+					height="16"
+					alt="■"
+					class="object-contain"
+				/>
+				{item.label}
+			</div>
+		{/if}
+	</li>
+{/each}
+
 			</ul>
 		</nav>
 

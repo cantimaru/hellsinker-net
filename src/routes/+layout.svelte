@@ -33,11 +33,7 @@
 		{ href: "/links", label: "Links", icon: blueArrow },
 		{ href: "/fanworks", label: "Fanmade Works", icon: flash },
 		{ href: "/archive", label: "Garland Archive", icon: hsSeg },
-		{ label: "Art Gallery", icon: life },
-		{ href: "/art/official", label: "Official", icon: life, indent: 1 },
-		{ href: "/art/official/other", label: "Other", icon: life, indent: 2 },
-		{ href: "/art/fanart", label: "Fanart", icon: life, indent: 1 },
-		{ href: "/art/fanart/other", label: "Other", icon: life, indent: 2 },
+		{ href: "/art", label: "Art Gallery", icon: life },
 		{ href: "/tonnor", label: "Tonnor Ludography", icon: blueDiamond },
 		{ href: "/site", label: "About HS.Net", icon: hsGly },
 		{ href: "/site/thanks", label: "Thanks", icon: oldStel, indent: 1 },
@@ -60,10 +56,12 @@
 			<a
 				href={item.href}
 				aria-current={
-					item.href === "/music"
+						item.href === "/music"
 						? page.url.pathname.startsWith("/music")
 						: item.href === "/fanworks"
 						? page.url.pathname.startsWith("/fanworks")
+						: item.href === "/art"
+						? page.url.pathname.startsWith("/art")
 						: page.url.pathname === item.href
 				}
 			>

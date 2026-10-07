@@ -63,6 +63,7 @@
 						: item.href === "/art"
 						? page.url.pathname.startsWith("/art")
 						: page.url.pathname === item.href
+						// these are proprietary so that subroutes still highlight their parent within the TOC I KNOw there's a better way to do this but i can't be arsed to make it look all pretty currently
 				}
 			>
 				<img

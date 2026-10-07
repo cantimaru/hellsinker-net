@@ -1,32 +1,5 @@
-<script lang="ts">
-	let games = $state([
-		{
-			name: "Tobarinker // とばりんかー",
-			developer: "Trickster Jam",
-			release: "2010-09-30",
-			desc: "N/A",
-		},
-		{
-			name: "Shaftdiver",
-			developer: "D.N.A. Softwares",
-			release: "2010-08-09",
-			desc: "N/A",
-		},
-		{
-			name: "PUZZSINKER.",
-			developer: "CAT'S WHISPER",
-			release: "2010-06-07",
-			desc: "N/A",
-		},
-		{
-			name: "シンカノゲーム",
-			developer: "OMEGA",
-			release: "2010-07-04",
-			desc: "N/A",
-		},
-	]);
-
-	let doujinshi = $state([
+<script>
+	const doujinshi = [
 		{
 			name: "TARGETマッシグラ",
 			author: "TARGETマッシグラ製作委員会",
@@ -249,105 +222,9 @@
 			release: "UNKNOWN",
 			desc: "N/A",
 		},
-	]);
-
-	let albums = $state([
-		{
-			name: "Without reStraint",
-			artist: "Sound Ave.",
-			release: "2007-12-31",
-			desc: "N/A",
-		},
-		{
-			name: "DiGITALiZM -デジタリズム-",
-			artist: "MARS Tracks",
-			release: "2007-12-31",
-			desc: "N/A",
-		},
-		{
-			name: "AUDIENCE WITH PRAYER",
-			artist: "Machia Works",
-			release: "2007-12-31",
-			desc: "N/A",
-		},
-	]);
+	];
 </script>
 
-<!-- TODO: Archive tables should be expandable with a brief explanation up on top and maybe some describtiopons for each of the gings okay Bye -->
-
-<h1>Fanworks Archive</h1>
-<hr />
-
-<h2>Games</h2>
-<table>
-	<thead>
-		<tr>
-			<th>Title</th>
-			<th>Developer</th>
-			<th>Release Date</th>
-			<th>Info</th>
-		</tr>
-	</thead>
-	<tbody>
-		{#each games as game}
-			<tr>
-				<td>{game.name}</td>
-				<td>{game.developer}</td>
-				<td>{game.release}</td>
-				<td>{game.desc}</td>
-			</tr>
-		{/each}
-	</tbody>
-</table>
-
-<!-- <h3></h3>
-
-<h3></h3>
-
-<h3></h3> -->
-
-<h2>Doujinshi</h2>
-
-<table>
-	<thead>
-		<tr>
-			<th>Title</th>
-			<th>Developer</th>
-			<th>Release Date</th>
-			<th>Info</th>
-		</tr>
-	</thead>
-	<tbody>
-		{#each doujinshi as doujin}
-			<tr>
-				<td>{doujin.name}</td>
-				<td>{doujin.author}</td>
-				<td>{doujin.release}</td>
-				<td>{doujin.desc}</td>
-			</tr>
-		{/each}
-	</tbody>
-</table>
-
-<h2>Music</h2>
-
-<table>
-	<thead>
-		<tr>
-			<th>Title</th>
-			<th>Developer</th>
-			<th>Release Date</th>
-			<th>Info</th>
-		</tr>
-	</thead>
-	<tbody>
-		{#each albums as album}
-			<tr>
-				<td>{album.name}</td>
-				<td>{album.artist}</td>
-				<td>{album.release}</td>
-				<td>{album.desc}</td>
-			</tr>
-		{/each}
-	</tbody>
-</table>
+<main>
+	<h1>Doujinshi</h1>
+</main>
